@@ -3,11 +3,11 @@
 I'm Suhas Guruprasad. I'm currently building an AI software factory. I run thousands of AI agents in parallel to build products (AI multiplexing / AI software gardening). Before this, I was Head of AI at Invert (YC W22), where I built the industry's first agentic AI platform for biopharma and fermentation, and Head of ML Engineering at Zalando, where I founded Europe's first AI platform on Amazon SageMaker and Databricks.
 
 Some of my selected current quests:
-dasavala.com: a film studio where films are programs. A typed Lisp, an F# compiler, a physics simulation, cloud GPUs. 68,000 lines of F# and 454 tests in under two weeks.
-ahhhh.app: a weekly crossword with its own grid solver. 152 crosswords written; everything automated and freshly baked every Saturday morning.
-inchwormchess.com: a chess coach built on a study of 5.7 million games on Lichess.
-quest44.com: a deduction game on its own WebGL 2 renderer, under 800 KB.
-orangensaft: a programming language in Rust in which a typed LLM call is part of the language.
+- [dasavala.com](https://dasavala.com): a film studio where films are programs. A typed Lisp, an F# compiler, a physics simulation, cloud GPUs. 68,000 lines of F# and 454 tests in under two weeks.
+- [ahhhh.app](https://ahhhh.app): a weekly crossword with its own grid solver. 152 crosswords written; everything automated and freshly baked every Saturday morning.
+- [inchwormchess.com](https://inchwormchess.com): a chess coach built on a study of 5.7 million games on Lichess.
+- [quest44.com](https://quest44.com): a deduction game on its own WebGL 2 renderer, under 800 KB.
+- orangensaft: a programming language in Rust in which a typed LLM call is part of the language.
 
 <!--
 **jargnar/jargnar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
