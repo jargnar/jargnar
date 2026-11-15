@@ -1,6 +1,10 @@
 ## Hi there 👋
 
-I'm Suhas Guruprasad. I'm currently building large AI software factories. I run thousands of AI agents in parallel to build products (AI multiplexing / AI software gardening). Before this, I was Head of AI at Invert (YC W22), where I built the industry's first agentic AI platform for biopharma and fermentation, and Head of ML Engineering at Zalando, where I founded Europe's first AI platform on Amazon SageMaker and Databricks.
+I'm Suhas Guruprasad. I'm currently building large AI software factories. I run thousands of AI agents in parallel to build products (AI multiplexing / AI software gardening). 
+
+Before this, I was 
+- **Head of AI at Invert (YC W22)**, where I built the industry's first agentic AI platform for biopharma and fermentation, and
+- **Head of ML Engineering at Zalando**, where I founded Europe's first AI platform on Amazon SageMaker and Databricks.
 
 Some of my selected current quests:
 - [dasavala.com](https://dasavala.com): a film studio where films are programs. A typed Lisp, an F# compiler, a physics simulation, cloud GPUs. 68,000 lines of F# and 454 tests in under two weeks.
